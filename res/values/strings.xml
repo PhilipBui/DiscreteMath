@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DiscreteMath</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gcdprime">GCDPrime</string>
+    <string name="gcd">Greatest Common Divisor</string>
+    <string name="lcm">Lowest Common Multiplier</string>
+    <string name="dijkstra">Dijkstra Algorithm</string>
+    <string name="title_activity_gcd">GCDActivity</string>
+    <string name="prime">Prime Factors</string>
+    <string name="euclid">Euclidean Algorithm</string>
+    <string name="title_activity_lcm">LCMActivity</string>
+
+</resources>
